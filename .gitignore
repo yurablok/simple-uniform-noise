@@ -1,0 +1,6 @@
+/processing/build
+/processing/deps
+/processing/workdir/bin_*
+/processing/.vs
+/processing/.vscode/ipch
+/processing/.clangd
